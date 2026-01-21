@@ -1,2 +1,2 @@
-# SPRING_FRAMEWORK_PROJECTS
-Collection of projects for demonstrating spring framework learning journey
+# SPRING_PROJECTS
+This repository contains source code and documentations that demonstrate my JAVA / Spring learning journey.
